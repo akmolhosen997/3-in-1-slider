@@ -1,0 +1,21 @@
+@use '../abstracts/mixins' as *;
+@use '../abstracts/variables' as *;
+
+
+.slide-div-1 {
+  width: 400px;
+  height: 200px;
+  background: burlywood;
+}
+.slide-div-2 {
+  width: 400px;
+  height: 200px;
+  border-radius: 50%;
+  background: green;
+}
+.slide-div-3 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: blueviolet;
+}
